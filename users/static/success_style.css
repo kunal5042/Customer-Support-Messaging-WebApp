@@ -1,0 +1,66 @@
+body {
+    height: 100vh;
+}
+
+.content {
+    height: 100vh;
+    width: 95vw;
+    background-color: #fff;
+}
+
+.logo{
+    padding: 40px 0 0 50px;
+    z-index: 10;
+}
+
+.card {
+    padding: 5% 2% 1%;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    position: relative;
+    top: 45%;
+    transform: translateY(-50%);
+}
+
+.check {
+    width: 250px;
+    margin: auto;
+}
+
+.dot {
+    position: fixed;
+    border-radius: 50%;
+}
+
+.dot1 {
+    height: 400px;
+    width: 400px;
+    bottom: 8%;
+    right: 22%;
+    background-color: #50d37c;
+}
+
+.dot2 {
+    height: 400px;
+    width: 400px;
+    bottom: 10%;
+    right: 20%;
+    border: solid #ddd 4px;
+}
+
+.dot3 {
+    background-color: #3b893b;
+    height: 200px;
+    width: 200px;
+    bottom: 60%;
+    left: 25%
+}
+
+.dot4 {
+    border: solid #9c9898 4px;
+    height: 220px;
+    width: 220px;
+    bottom: 60%;
+    left: 25%
+}

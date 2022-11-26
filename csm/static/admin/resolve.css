@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.parent {
+    height: 80vh;
+}
+
+.textInput {
+    background-color: white;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.respond {
+    margin-top: 20px;
+}
+
+.half{
+    margin: 10px;
+    padding: 25px;
+}
+
+.form {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.checkbox {
+    width: 25px;
+    height: 25px;
+}
+
+.submit {
+    width: 100px;
+    padding: 10px;
+    margin: 0px auto 10px;
+}
+
+td {
+    vertical-align: middle;
+}
