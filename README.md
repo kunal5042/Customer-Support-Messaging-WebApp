@@ -1,4 +1,4 @@
-# CS-Messaging-Web-App
+# Customer-Support-Messaging-WebApp
 Branch International Project
 
 ### What is this?
